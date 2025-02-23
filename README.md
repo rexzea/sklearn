@@ -1,2 +1,2 @@
-modul pembelajaran bahasa pemrograman python
+modul pembelajaran ML/AI Sklearn
  12 2024
